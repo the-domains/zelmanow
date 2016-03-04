@@ -1,0 +1,28 @@
+name: zelmanow
+favicon: null
+layout_spectrum: 0.035023543518036604
+typography_spectrum: 0.12358037522062659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9253343243617564
+  lightness: 0.47051903582178056
+  saturation: 0.7914897000882775
+  rhythmicContrast: 0.003247583983466029
+purpose: []
