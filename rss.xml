@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ari Zelmanow]]></title>
         <description><![CDATA[Ari Zelmanow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.arizelmanow.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 19:53:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 20:08:33 GMT</lastBuildDate>
+        <atom:link href="http://www.arizelmanow.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Coming soon</p>]]></description>
-            <link>undefinedcoming-soon/index.html</link>
+            <link>http://www.arizelmanow.com/coming-soon/index.html</link>
             <guid isPermaLink="false">90592f85-cb32-49b3-8131-b1d8ab489616</guid>
-            <pubDate>Sat, 26 Mar 2016 19:53:15 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 20:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
